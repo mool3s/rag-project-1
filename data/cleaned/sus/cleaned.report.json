@@ -1,0 +1,2626 @@
+{
+  "status": "needs_review",
+  "changes": [
+    {
+      "rule": "profile_header_footer",
+      "block_id": "fd6dbfea41d5_b0002",
+      "before": "Journal of Information Systems and Informatics"
+    },
+    {
+      "rule": "profile_header_footer",
+      "block_id": "fd6dbfea41d5_b0003",
+      "before": "Vol. 6, No. 2, June 2024 e-ISSN: 2656-4882 p-ISSN: 2656-5935"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0006",
+      "target": "fd6dbfea41d5_b0005"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0009",
+      "target": "fd6dbfea41d5_b0008"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0012",
+      "target": "fd6dbfea41d5_b0011"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0013",
+      "target": "fd6dbfea41d5_b0011"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0014",
+      "target": "fd6dbfea41d5_b0011"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0015",
+      "target": "fd6dbfea41d5_b0011"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0016",
+      "target": "fd6dbfea41d5_b0011"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0017",
+      "target": "fd6dbfea41d5_b0011"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0018",
+      "target": "fd6dbfea41d5_b0011"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0019",
+      "target": "fd6dbfea41d5_b0011"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0020",
+      "target": "fd6dbfea41d5_b0011"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0021",
+      "target": "fd6dbfea41d5_b0011"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0022",
+      "target": "fd6dbfea41d5_b0011"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0023",
+      "target": "fd6dbfea41d5_b0011"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0024",
+      "target": "fd6dbfea41d5_b0011"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0026",
+      "target": "fd6dbfea41d5_b0025"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0029",
+      "target": "fd6dbfea41d5_b0028"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0030",
+      "target": "fd6dbfea41d5_b0028"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0031",
+      "target": "fd6dbfea41d5_b0028"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0032",
+      "target": "fd6dbfea41d5_b0028"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0033",
+      "target": "fd6dbfea41d5_b0028"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0034",
+      "target": "fd6dbfea41d5_b0028"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0035",
+      "target": "fd6dbfea41d5_b0028"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0036",
+      "target": "fd6dbfea41d5_b0028"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0037",
+      "target": "fd6dbfea41d5_b0028"
+    },
+    {
+      "rule": "profile_header_footer",
+      "block_id": "fd6dbfea41d5_b0038",
+      "before": "992"
+    },
+    {
+      "rule": "profile_header_footer",
+      "block_id": "fd6dbfea41d5_b0041",
+      "before": "Journal of Information Systems and Informatics"
+    },
+    {
+      "rule": "profile_header_footer",
+      "block_id": "fd6dbfea41d5_b0042",
+      "before": "Vol. 6, No. 2, June 2024"
+    },
+    {
+      "rule": "profile_header_footer",
+      "block_id": "fd6dbfea41d5_b0043",
+      "before": "p-ISSN: 2656-5935 http://journal-isi.org/index.php/isi e-ISSN: 2656-4882"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0045",
+      "target": "fd6dbfea41d5_b0044"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0046",
+      "target": "fd6dbfea41d5_b0044"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0047",
+      "target": "fd6dbfea41d5_b0044"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0048",
+      "target": "fd6dbfea41d5_b0044"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0049",
+      "target": "fd6dbfea41d5_b0044"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0050",
+      "target": "fd6dbfea41d5_b0044"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0051",
+      "target": "fd6dbfea41d5_b0044"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0052",
+      "target": "fd6dbfea41d5_b0044"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0053",
+      "target": "fd6dbfea41d5_b0044"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0054",
+      "target": "fd6dbfea41d5_b0044"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0055",
+      "target": "fd6dbfea41d5_b0044"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0057",
+      "target": "fd6dbfea41d5_b0056"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0058",
+      "target": "fd6dbfea41d5_b0056"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0059",
+      "target": "fd6dbfea41d5_b0056"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0060",
+      "target": "fd6dbfea41d5_b0056"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0061",
+      "target": "fd6dbfea41d5_b0056"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0062",
+      "target": "fd6dbfea41d5_b0056"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0063",
+      "target": "fd6dbfea41d5_b0056"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0064",
+      "target": "fd6dbfea41d5_b0056"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0065",
+      "target": "fd6dbfea41d5_b0056"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0066",
+      "target": "fd6dbfea41d5_b0056"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0068",
+      "target": "fd6dbfea41d5_b0067"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0069",
+      "target": "fd6dbfea41d5_b0067"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0070",
+      "target": "fd6dbfea41d5_b0067"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0071",
+      "target": "fd6dbfea41d5_b0067"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0072",
+      "target": "fd6dbfea41d5_b0067"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0074",
+      "target": "fd6dbfea41d5_b0073"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0075",
+      "target": "fd6dbfea41d5_b0073"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0076",
+      "target": "fd6dbfea41d5_b0073"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0077",
+      "target": "fd6dbfea41d5_b0073"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0078",
+      "target": "fd6dbfea41d5_b0073"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0079",
+      "target": "fd6dbfea41d5_b0073"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0080",
+      "target": "fd6dbfea41d5_b0073"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0081",
+      "target": "fd6dbfea41d5_b0073"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0082",
+      "target": "fd6dbfea41d5_b0073"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0083",
+      "target": "fd6dbfea41d5_b0073"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0084",
+      "target": "fd6dbfea41d5_b0073"
+    },
+    {
+      "rule": "profile_header_footer",
+      "block_id": "fd6dbfea41d5_b0085",
+      "before": "Ozzi Suria | 993"
+    },
+    {
+      "rule": "profile_header_footer",
+      "block_id": "fd6dbfea41d5_b0086",
+      "before": "Journal of Information Systems and Informatics"
+    },
+    {
+      "rule": "profile_header_footer",
+      "block_id": "fd6dbfea41d5_b0087",
+      "before": "Vol. 6, No. 2, June 2024"
+    },
+    {
+      "rule": "profile_header_footer",
+      "block_id": "fd6dbfea41d5_b0088",
+      "before": "p-ISSN: 2656-5935 http://journal-isi.org/index.php/isi e-ISSN: 2656-4882"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0090",
+      "target": "fd6dbfea41d5_b0089"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0091",
+      "target": "fd6dbfea41d5_b0089"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0092",
+      "target": "fd6dbfea41d5_b0089"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0093",
+      "target": "fd6dbfea41d5_b0089"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0094",
+      "target": "fd6dbfea41d5_b0089"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0095",
+      "target": "fd6dbfea41d5_b0089"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0096",
+      "target": "fd6dbfea41d5_b0089"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0097",
+      "target": "fd6dbfea41d5_b0089"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0098",
+      "target": "fd6dbfea41d5_b0089"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0099",
+      "target": "fd6dbfea41d5_b0089"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0100",
+      "target": "fd6dbfea41d5_b0089"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0102",
+      "target": "fd6dbfea41d5_b0101"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0103",
+      "target": "fd6dbfea41d5_b0101"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0104",
+      "target": "fd6dbfea41d5_b0101"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0105",
+      "target": "fd6dbfea41d5_b0101"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0106",
+      "target": "fd6dbfea41d5_b0101"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0107",
+      "target": "fd6dbfea41d5_b0101"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0108",
+      "target": "fd6dbfea41d5_b0101"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0109",
+      "target": "fd6dbfea41d5_b0101"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0110",
+      "target": "fd6dbfea41d5_b0101"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0111",
+      "target": "fd6dbfea41d5_b0101"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0112",
+      "target": "fd6dbfea41d5_b0101"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0113",
+      "target": "fd6dbfea41d5_b0101"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0115",
+      "target": "fd6dbfea41d5_b0114"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0116",
+      "target": "fd6dbfea41d5_b0114"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0117",
+      "target": "fd6dbfea41d5_b0114"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0118",
+      "target": "fd6dbfea41d5_b0114"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0119",
+      "target": "fd6dbfea41d5_b0114"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0120",
+      "target": "fd6dbfea41d5_b0114"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0121",
+      "target": "fd6dbfea41d5_b0114"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0122",
+      "target": "fd6dbfea41d5_b0114"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0125",
+      "target": "fd6dbfea41d5_b0124"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0126",
+      "target": "fd6dbfea41d5_b0124"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0127",
+      "target": "fd6dbfea41d5_b0124"
+    },
+    {
+      "rule": "profile_header_footer",
+      "block_id": "fd6dbfea41d5_b0128",
+      "before": "994 | A Statistical Analysis of System Usability Scale (SUS) Evaluations in Online ….."
+    },
+    {
+      "rule": "profile_header_footer",
+      "block_id": "fd6dbfea41d5_b0129",
+      "before": "Journal of Information Systems and Informatics"
+    },
+    {
+      "rule": "profile_header_footer",
+      "block_id": "fd6dbfea41d5_b0130",
+      "before": "Vol. 6, No. 2, June 2024"
+    },
+    {
+      "rule": "profile_header_footer",
+      "block_id": "fd6dbfea41d5_b0131",
+      "before": "p-ISSN: 2656-5935 http://journal-isi.org/index.php/isi e-ISSN: 2656-4882"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0133",
+      "target": "fd6dbfea41d5_b0132"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0134",
+      "target": "fd6dbfea41d5_b0132"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0139",
+      "target": "fd6dbfea41d5_b0138"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0140",
+      "target": "fd6dbfea41d5_b0138"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0141",
+      "target": "fd6dbfea41d5_b0138"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0142",
+      "target": "fd6dbfea41d5_b0138"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0143",
+      "target": "fd6dbfea41d5_b0138"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0144",
+      "target": "fd6dbfea41d5_b0138"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0145",
+      "target": "fd6dbfea41d5_b0138"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0146",
+      "target": "fd6dbfea41d5_b0138"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0147",
+      "target": "fd6dbfea41d5_b0138"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0150",
+      "target": "fd6dbfea41d5_b0149"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0151",
+      "target": "fd6dbfea41d5_b0149"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0152",
+      "target": "fd6dbfea41d5_b0149"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0153",
+      "target": "fd6dbfea41d5_b0149"
+    },
+    {
+      "rule": "profile_header_footer",
+      "block_id": "fd6dbfea41d5_b0154",
+      "before": "Ozzi Suria | 995"
+    },
+    {
+      "rule": "profile_header_footer",
+      "block_id": "fd6dbfea41d5_b0155",
+      "before": "Journal of Information Systems and Informatics"
+    },
+    {
+      "rule": "profile_header_footer",
+      "block_id": "fd6dbfea41d5_b0156",
+      "before": "Vol. 6, No. 2, June 2024"
+    },
+    {
+      "rule": "profile_header_footer",
+      "block_id": "fd6dbfea41d5_b0157",
+      "before": "p-ISSN: 2656-5935 http://journal-isi.org/index.php/isi e-ISSN: 2656-4882"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0161",
+      "target": "fd6dbfea41d5_b0160"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0162",
+      "target": "fd6dbfea41d5_b0160"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0163",
+      "target": "fd6dbfea41d5_b0160"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0164",
+      "target": "fd6dbfea41d5_b0160"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0165",
+      "target": "fd6dbfea41d5_b0160"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0168",
+      "target": "fd6dbfea41d5_b0167"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0169",
+      "target": "fd6dbfea41d5_b0167"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0170",
+      "target": "fd6dbfea41d5_b0167"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0171",
+      "target": "fd6dbfea41d5_b0167"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0172",
+      "target": "fd6dbfea41d5_b0167"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0174",
+      "target": "fd6dbfea41d5_b0173"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0175",
+      "target": "fd6dbfea41d5_b0173"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0181",
+      "target": "fd6dbfea41d5_b0180"
+    },
+    {
+      "rule": "profile_header_footer",
+      "block_id": "fd6dbfea41d5_b0186",
+      "before": "996 | A Statistical Analysis of System Usability Scale (SUS) Evaluations in Online ….."
+    },
+    {
+      "rule": "profile_header_footer",
+      "block_id": "fd6dbfea41d5_b0187",
+      "before": "Journal of Information Systems and Informatics"
+    },
+    {
+      "rule": "profile_header_footer",
+      "block_id": "fd6dbfea41d5_b0188",
+      "before": "Vol. 6, No. 2, June 2024"
+    },
+    {
+      "rule": "profile_header_footer",
+      "block_id": "fd6dbfea41d5_b0189",
+      "before": "p-ISSN: 2656-5935 http://journal-isi.org/index.php/isi e-ISSN: 2656-4882"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0192",
+      "target": "fd6dbfea41d5_b0191"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0195",
+      "target": "fd6dbfea41d5_b0194"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0204",
+      "target": "fd6dbfea41d5_b0203"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0209",
+      "target": "fd6dbfea41d5_b0208"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0210",
+      "target": "fd6dbfea41d5_b0208"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0211",
+      "target": "fd6dbfea41d5_b0208"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0212",
+      "target": "fd6dbfea41d5_b0208"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0213",
+      "target": "fd6dbfea41d5_b0208"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0214",
+      "target": "fd6dbfea41d5_b0208"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0215",
+      "target": "fd6dbfea41d5_b0208"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0216",
+      "target": "fd6dbfea41d5_b0208"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0217",
+      "target": "fd6dbfea41d5_b0208"
+    },
+    {
+      "rule": "profile_header_footer",
+      "block_id": "fd6dbfea41d5_b0220",
+      "before": "Ozzi Suria | 997"
+    },
+    {
+      "rule": "profile_header_footer",
+      "block_id": "fd6dbfea41d5_b0221",
+      "before": "Journal of Information Systems and Informatics"
+    },
+    {
+      "rule": "profile_header_footer",
+      "block_id": "fd6dbfea41d5_b0222",
+      "before": "Vol. 6, No. 2, June 2024"
+    },
+    {
+      "rule": "profile_header_footer",
+      "block_id": "fd6dbfea41d5_b0223",
+      "before": "p-ISSN: 2656-5935 http://journal-isi.org/index.php/isi e-ISSN: 2656-4882"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0225",
+      "target": "fd6dbfea41d5_b0224"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0226",
+      "target": "fd6dbfea41d5_b0224"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0227",
+      "target": "fd6dbfea41d5_b0224"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0228",
+      "target": "fd6dbfea41d5_b0224"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0231",
+      "target": "fd6dbfea41d5_b0230"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0232",
+      "target": "fd6dbfea41d5_b0230"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0233",
+      "target": "fd6dbfea41d5_b0230"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0234",
+      "target": "fd6dbfea41d5_b0230"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0235",
+      "target": "fd6dbfea41d5_b0230"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0236",
+      "target": "fd6dbfea41d5_b0230"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0237",
+      "target": "fd6dbfea41d5_b0230"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0240",
+      "target": "fd6dbfea41d5_b0239"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0243",
+      "target": "fd6dbfea41d5_b0242"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0244",
+      "target": "fd6dbfea41d5_b0242"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0245",
+      "target": "fd6dbfea41d5_b0242"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0246",
+      "target": "fd6dbfea41d5_b0242"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0247",
+      "target": "fd6dbfea41d5_b0242"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0249",
+      "target": "fd6dbfea41d5_b0248"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0250",
+      "target": "fd6dbfea41d5_b0248"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0251",
+      "target": "fd6dbfea41d5_b0248"
+    },
+    {
+      "rule": "profile_header_footer",
+      "block_id": "fd6dbfea41d5_b0254",
+      "before": "998 | A Statistical Analysis of System Usability Scale (SUS) Evaluations in Online ….."
+    },
+    {
+      "rule": "profile_header_footer",
+      "block_id": "fd6dbfea41d5_b0255",
+      "before": "Journal of Information Systems and Informatics"
+    },
+    {
+      "rule": "profile_header_footer",
+      "block_id": "fd6dbfea41d5_b0256",
+      "before": "Vol. 6, No. 2, June 2024"
+    },
+    {
+      "rule": "profile_header_footer",
+      "block_id": "fd6dbfea41d5_b0257",
+      "before": "p-ISSN: 2656-5935 http://journal-isi.org/index.php/isi e-ISSN: 2656-4882"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0262",
+      "target": "fd6dbfea41d5_b0261"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0263",
+      "target": "fd6dbfea41d5_b0261"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0264",
+      "target": "fd6dbfea41d5_b0261"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0265",
+      "target": "fd6dbfea41d5_b0261"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0266",
+      "target": "fd6dbfea41d5_b0261"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0267",
+      "target": "fd6dbfea41d5_b0261"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0268",
+      "target": "fd6dbfea41d5_b0261"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0272",
+      "target": "fd6dbfea41d5_b0271"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0273",
+      "target": "fd6dbfea41d5_b0271"
+    },
+    {
+      "rule": "profile_header_footer",
+      "block_id": "fd6dbfea41d5_b0274",
+      "before": "Ozzi Suria | 999"
+    },
+    {
+      "rule": "profile_header_footer",
+      "block_id": "fd6dbfea41d5_b0275",
+      "before": "Journal of Information Systems and Informatics"
+    },
+    {
+      "rule": "profile_header_footer",
+      "block_id": "fd6dbfea41d5_b0276",
+      "before": "Vol. 6, No. 2, June 2024"
+    },
+    {
+      "rule": "profile_header_footer",
+      "block_id": "fd6dbfea41d5_b0277",
+      "before": "p-ISSN: 2656-5935 http://journal-isi.org/index.php/isi e-ISSN: 2656-4882"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0279",
+      "target": "fd6dbfea41d5_b0278"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0280",
+      "target": "fd6dbfea41d5_b0278"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0284",
+      "target": "fd6dbfea41d5_b0283"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0285",
+      "target": "fd6dbfea41d5_b0283"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0286",
+      "target": "fd6dbfea41d5_b0283"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0287",
+      "target": "fd6dbfea41d5_b0283"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0288",
+      "target": "fd6dbfea41d5_b0283"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0291",
+      "target": "fd6dbfea41d5_b0290"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0292",
+      "target": "fd6dbfea41d5_b0290"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0293",
+      "target": "fd6dbfea41d5_b0290"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0294",
+      "target": "fd6dbfea41d5_b0290"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0295",
+      "target": "fd6dbfea41d5_b0290"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0296",
+      "target": "fd6dbfea41d5_b0290"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0297",
+      "target": "fd6dbfea41d5_b0290"
+    },
+    {
+      "rule": "profile_header_footer",
+      "block_id": "fd6dbfea41d5_b0300",
+      "before": "1000 | A Statistical Analysis of System Usability Scale (SUS) Evaluations in Online ….."
+    },
+    {
+      "rule": "profile_header_footer",
+      "block_id": "fd6dbfea41d5_b0301",
+      "before": "Journal of Information Systems and Informatics"
+    },
+    {
+      "rule": "profile_header_footer",
+      "block_id": "fd6dbfea41d5_b0302",
+      "before": "Vol. 6, No. 2, June 2024"
+    },
+    {
+      "rule": "profile_header_footer",
+      "block_id": "fd6dbfea41d5_b0303",
+      "before": "p-ISSN: 2656-5935 http://journal-isi.org/index.php/isi e-ISSN: 2656-4882"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0307",
+      "target": "fd6dbfea41d5_b0306"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0308",
+      "target": "fd6dbfea41d5_b0306"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0309",
+      "target": "fd6dbfea41d5_b0306"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0312",
+      "target": "fd6dbfea41d5_b0311"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0313",
+      "target": "fd6dbfea41d5_b0311"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0314",
+      "target": "fd6dbfea41d5_b0311"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0315",
+      "target": "fd6dbfea41d5_b0311"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0316",
+      "target": "fd6dbfea41d5_b0311"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0317",
+      "target": "fd6dbfea41d5_b0311"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0318",
+      "target": "fd6dbfea41d5_b0311"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0319",
+      "target": "fd6dbfea41d5_b0311"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0320",
+      "target": "fd6dbfea41d5_b0311"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0321",
+      "target": "fd6dbfea41d5_b0311"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0322",
+      "target": "fd6dbfea41d5_b0311"
+    },
+    {
+      "rule": "profile_header_footer",
+      "block_id": "fd6dbfea41d5_b0325",
+      "before": "Ozzi Suria | 1001"
+    },
+    {
+      "rule": "profile_header_footer",
+      "block_id": "fd6dbfea41d5_b0326",
+      "before": "Journal of Information Systems and Informatics"
+    },
+    {
+      "rule": "profile_header_footer",
+      "block_id": "fd6dbfea41d5_b0327",
+      "before": "Vol. 6, No. 2, June 2024"
+    },
+    {
+      "rule": "profile_header_footer",
+      "block_id": "fd6dbfea41d5_b0328",
+      "before": "p-ISSN: 2656-5935 http://journal-isi.org/index.php/isi e-ISSN: 2656-4882"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0330",
+      "target": "fd6dbfea41d5_b0329"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0331",
+      "target": "fd6dbfea41d5_b0329"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0335",
+      "target": "fd6dbfea41d5_b0334"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0336",
+      "target": "fd6dbfea41d5_b0334"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0337",
+      "target": "fd6dbfea41d5_b0334"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0338",
+      "target": "fd6dbfea41d5_b0334"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0339",
+      "target": "fd6dbfea41d5_b0334"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0340",
+      "target": "fd6dbfea41d5_b0334"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0341",
+      "target": "fd6dbfea41d5_b0334"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0342",
+      "target": "fd6dbfea41d5_b0334"
+    },
+    {
+      "rule": "profile_header_footer",
+      "block_id": "fd6dbfea41d5_b0345",
+      "before": "1002 | A Statistical Analysis of System Usability Scale (SUS) Evaluations in Online ….."
+    },
+    {
+      "rule": "profile_header_footer",
+      "block_id": "fd6dbfea41d5_b0346",
+      "before": "Journal of Information Systems and Informatics"
+    },
+    {
+      "rule": "profile_header_footer",
+      "block_id": "fd6dbfea41d5_b0347",
+      "before": "Vol. 6, No. 2, June 2024"
+    },
+    {
+      "rule": "profile_header_footer",
+      "block_id": "fd6dbfea41d5_b0348",
+      "before": "p-ISSN: 2656-5935 http://journal-isi.org/index.php/isi e-ISSN: 2656-4882"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0350",
+      "target": "fd6dbfea41d5_b0349"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0351",
+      "target": "fd6dbfea41d5_b0349"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0355",
+      "target": "fd6dbfea41d5_b0354"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0358",
+      "target": "fd6dbfea41d5_b0357"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0359",
+      "target": "fd6dbfea41d5_b0357"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0360",
+      "target": "fd6dbfea41d5_b0357"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0361",
+      "target": "fd6dbfea41d5_b0357"
+    },
+    {
+      "rule": "profile_header_footer",
+      "block_id": "fd6dbfea41d5_b0362",
+      "before": "Ozzi Suria | 1003"
+    },
+    {
+      "rule": "profile_header_footer",
+      "block_id": "fd6dbfea41d5_b0363",
+      "before": "Journal of Information Systems and Informatics"
+    },
+    {
+      "rule": "profile_header_footer",
+      "block_id": "fd6dbfea41d5_b0364",
+      "before": "Vol. 6, No. 2, June 2024"
+    },
+    {
+      "rule": "profile_header_footer",
+      "block_id": "fd6dbfea41d5_b0365",
+      "before": "p-ISSN: 2656-5935 http://journal-isi.org/index.php/isi e-ISSN: 2656-4882"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0367",
+      "target": "fd6dbfea41d5_b0366"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0368",
+      "target": "fd6dbfea41d5_b0366"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0369",
+      "target": "fd6dbfea41d5_b0366"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0370",
+      "target": "fd6dbfea41d5_b0366"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0371",
+      "target": "fd6dbfea41d5_b0366"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0372",
+      "target": "fd6dbfea41d5_b0366"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0373",
+      "target": "fd6dbfea41d5_b0366"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0375",
+      "target": "fd6dbfea41d5_b0374"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0376",
+      "target": "fd6dbfea41d5_b0374"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0377",
+      "target": "fd6dbfea41d5_b0374"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0378",
+      "target": "fd6dbfea41d5_b0374"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0379",
+      "target": "fd6dbfea41d5_b0374"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0380",
+      "target": "fd6dbfea41d5_b0374"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0381",
+      "target": "fd6dbfea41d5_b0374"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0382",
+      "target": "fd6dbfea41d5_b0374"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0383",
+      "target": "fd6dbfea41d5_b0374"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0384",
+      "target": "fd6dbfea41d5_b0374"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0387",
+      "target": "fd6dbfea41d5_b0386"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0388",
+      "target": "fd6dbfea41d5_b0386"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0389",
+      "target": "fd6dbfea41d5_b0386"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0390",
+      "target": "fd6dbfea41d5_b0386"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0391",
+      "target": "fd6dbfea41d5_b0386"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0392",
+      "target": "fd6dbfea41d5_b0386"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0393",
+      "target": "fd6dbfea41d5_b0386"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0394",
+      "target": "fd6dbfea41d5_b0386"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0395",
+      "target": "fd6dbfea41d5_b0386"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0396",
+      "target": "fd6dbfea41d5_b0386"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0397",
+      "target": "fd6dbfea41d5_b0386"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0398",
+      "target": "fd6dbfea41d5_b0386"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0399",
+      "target": "fd6dbfea41d5_b0386"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0400",
+      "target": "fd6dbfea41d5_b0386"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0402",
+      "target": "fd6dbfea41d5_b0401"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0403",
+      "target": "fd6dbfea41d5_b0401"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0404",
+      "target": "fd6dbfea41d5_b0401"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0405",
+      "target": "fd6dbfea41d5_b0401"
+    },
+    {
+      "rule": "profile_header_footer",
+      "block_id": "fd6dbfea41d5_b0406",
+      "before": "1004 | A Statistical Analysis of System Usability Scale (SUS) Evaluations in Online ….."
+    },
+    {
+      "rule": "profile_header_footer",
+      "block_id": "fd6dbfea41d5_b0407",
+      "before": "Journal of Information Systems and Informatics"
+    },
+    {
+      "rule": "profile_header_footer",
+      "block_id": "fd6dbfea41d5_b0408",
+      "before": "Vol. 6, No. 2, June 2024"
+    },
+    {
+      "rule": "profile_header_footer",
+      "block_id": "fd6dbfea41d5_b0409",
+      "before": "p-ISSN: 2656-5935 http://journal-isi.org/index.php/isi e-ISSN: 2656-4882"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0411",
+      "target": "fd6dbfea41d5_b0410"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0412",
+      "target": "fd6dbfea41d5_b0410"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0413",
+      "target": "fd6dbfea41d5_b0410"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0416",
+      "target": "fd6dbfea41d5_b0415"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0417",
+      "target": "fd6dbfea41d5_b0415"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0418",
+      "target": "fd6dbfea41d5_b0415"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0419",
+      "target": "fd6dbfea41d5_b0415"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0420",
+      "target": "fd6dbfea41d5_b0415"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0421",
+      "target": "fd6dbfea41d5_b0415"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0422",
+      "target": "fd6dbfea41d5_b0415"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0423",
+      "target": "fd6dbfea41d5_b0415"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0424",
+      "target": "fd6dbfea41d5_b0415"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0425",
+      "target": "fd6dbfea41d5_b0415"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0426",
+      "target": "fd6dbfea41d5_b0415"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0427",
+      "target": "fd6dbfea41d5_b0415"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0428",
+      "target": "fd6dbfea41d5_b0415"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0429",
+      "target": "fd6dbfea41d5_b0415"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0430",
+      "target": "fd6dbfea41d5_b0415"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0431",
+      "target": "fd6dbfea41d5_b0415"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0432",
+      "target": "fd6dbfea41d5_b0415"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0433",
+      "target": "fd6dbfea41d5_b0415"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0434",
+      "target": "fd6dbfea41d5_b0415"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0435",
+      "target": "fd6dbfea41d5_b0415"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0436",
+      "target": "fd6dbfea41d5_b0415"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0437",
+      "target": "fd6dbfea41d5_b0415"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0438",
+      "target": "fd6dbfea41d5_b0415"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0439",
+      "target": "fd6dbfea41d5_b0415"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0440",
+      "target": "fd6dbfea41d5_b0415"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0441",
+      "target": "fd6dbfea41d5_b0415"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0442",
+      "target": "fd6dbfea41d5_b0415"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0443",
+      "target": "fd6dbfea41d5_b0415"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0444",
+      "target": "fd6dbfea41d5_b0415"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0445",
+      "target": "fd6dbfea41d5_b0415"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0446",
+      "target": "fd6dbfea41d5_b0415"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0447",
+      "target": "fd6dbfea41d5_b0415"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0448",
+      "target": "fd6dbfea41d5_b0415"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0449",
+      "target": "fd6dbfea41d5_b0415"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0450",
+      "target": "fd6dbfea41d5_b0415"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0451",
+      "target": "fd6dbfea41d5_b0415"
+    },
+    {
+      "rule": "profile_header_footer",
+      "block_id": "fd6dbfea41d5_b0452",
+      "before": "Ozzi Suria | 1005"
+    },
+    {
+      "rule": "profile_header_footer",
+      "block_id": "fd6dbfea41d5_b0453",
+      "before": "Journal of Information Systems and Informatics"
+    },
+    {
+      "rule": "profile_header_footer",
+      "block_id": "fd6dbfea41d5_b0454",
+      "before": "Vol. 6, No. 2, June 2024"
+    },
+    {
+      "rule": "profile_header_footer",
+      "block_id": "fd6dbfea41d5_b0455",
+      "before": "p-ISSN: 2656-5935 http://journal-isi.org/index.php/isi e-ISSN: 2656-4882"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0457",
+      "target": "fd6dbfea41d5_b0456"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0458",
+      "target": "fd6dbfea41d5_b0456"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0459",
+      "target": "fd6dbfea41d5_b0456"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0460",
+      "target": "fd6dbfea41d5_b0456"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0461",
+      "target": "fd6dbfea41d5_b0456"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0462",
+      "target": "fd6dbfea41d5_b0456"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0463",
+      "target": "fd6dbfea41d5_b0456"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0464",
+      "target": "fd6dbfea41d5_b0456"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0465",
+      "target": "fd6dbfea41d5_b0456"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0466",
+      "target": "fd6dbfea41d5_b0456"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0467",
+      "target": "fd6dbfea41d5_b0456"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0468",
+      "target": "fd6dbfea41d5_b0456"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0469",
+      "target": "fd6dbfea41d5_b0456"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0470",
+      "target": "fd6dbfea41d5_b0456"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0471",
+      "target": "fd6dbfea41d5_b0456"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0472",
+      "target": "fd6dbfea41d5_b0456"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0473",
+      "target": "fd6dbfea41d5_b0456"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0474",
+      "target": "fd6dbfea41d5_b0456"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0475",
+      "target": "fd6dbfea41d5_b0456"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0476",
+      "target": "fd6dbfea41d5_b0456"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0477",
+      "target": "fd6dbfea41d5_b0456"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0478",
+      "target": "fd6dbfea41d5_b0456"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0479",
+      "target": "fd6dbfea41d5_b0456"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0480",
+      "target": "fd6dbfea41d5_b0456"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0481",
+      "target": "fd6dbfea41d5_b0456"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0482",
+      "target": "fd6dbfea41d5_b0456"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0483",
+      "target": "fd6dbfea41d5_b0456"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0484",
+      "target": "fd6dbfea41d5_b0456"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0485",
+      "target": "fd6dbfea41d5_b0456"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0486",
+      "target": "fd6dbfea41d5_b0456"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0487",
+      "target": "fd6dbfea41d5_b0456"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0488",
+      "target": "fd6dbfea41d5_b0456"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0489",
+      "target": "fd6dbfea41d5_b0456"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0490",
+      "target": "fd6dbfea41d5_b0456"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0491",
+      "target": "fd6dbfea41d5_b0456"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0492",
+      "target": "fd6dbfea41d5_b0456"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0493",
+      "target": "fd6dbfea41d5_b0456"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0494",
+      "target": "fd6dbfea41d5_b0456"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0495",
+      "target": "fd6dbfea41d5_b0456"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0496",
+      "target": "fd6dbfea41d5_b0456"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0497",
+      "target": "fd6dbfea41d5_b0456"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0498",
+      "target": "fd6dbfea41d5_b0456"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0499",
+      "target": "fd6dbfea41d5_b0456"
+    },
+    {
+      "rule": "profile_header_footer",
+      "block_id": "fd6dbfea41d5_b0500",
+      "before": "1006 | A Statistical Analysis of System Usability Scale (SUS) Evaluations in Online ….."
+    },
+    {
+      "rule": "profile_header_footer",
+      "block_id": "fd6dbfea41d5_b0501",
+      "before": "Journal of Information Systems and Informatics"
+    },
+    {
+      "rule": "profile_header_footer",
+      "block_id": "fd6dbfea41d5_b0502",
+      "before": "Vol. 6, No. 2, June 2024"
+    },
+    {
+      "rule": "profile_header_footer",
+      "block_id": "fd6dbfea41d5_b0503",
+      "before": "p-ISSN: 2656-5935 http://journal-isi.org/index.php/isi e-ISSN: 2656-4882"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0505",
+      "target": "fd6dbfea41d5_b0504"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0506",
+      "target": "fd6dbfea41d5_b0504"
+    },
+    {
+      "rule": "join_close_text_lines",
+      "block_id": "fd6dbfea41d5_b0507",
+      "target": "fd6dbfea41d5_b0504"
+    },
+    {
+      "rule": "profile_header_footer",
+      "block_id": "fd6dbfea41d5_b0508",
+      "before": "Ozzi Suria | 1007"
+    }
+  ],
+  "review_items": [
+    {
+      "kind": "image_requires_review",
+      "block_id": "fd6dbfea41d5_b0001",
+      "source": {
+        "page": 1,
+        "bbox": [
+          86.4,
+          48.648,
+          124.5,
+          98.61
+        ],
+        "coordinate_system": "pdf_points_top_left"
+      }
+    },
+    {
+      "kind": "image_requires_review",
+      "block_id": "fd6dbfea41d5_b0039",
+      "source": {
+        "page": 1,
+        "bbox": [
+          85.05,
+          661.425,
+          130.0,
+          677.675
+        ],
+        "coordinate_system": "pdf_points_top_left"
+      }
+    },
+    {
+      "kind": "image_requires_review",
+      "block_id": "fd6dbfea41d5_b0135",
+      "source": {
+        "page": 4,
+        "bbox": [
+          209.3,
+          146.76,
+          306.65,
+          311.55
+        ],
+        "coordinate_system": "pdf_points_top_left"
+      }
+    },
+    {
+      "kind": "caption_requires_review",
+      "block_id": "fd6dbfea41d5_b0136",
+      "source": {
+        "page": 4,
+        "bbox": [
+          205.01,
+          315.074,
+          311.123,
+          326.114
+        ],
+        "coordinate_system": "pdf_points_top_left"
+      }
+    },
+    {
+      "kind": "caption_requires_review",
+      "block_id": "fd6dbfea41d5_b0158",
+      "source": {
+        "page": 5,
+        "bbox": [
+          185.57,
+          98.804,
+          330.689,
+          109.844
+        ],
+        "coordinate_system": "pdf_points_top_left"
+      }
+    },
+    {
+      "kind": "table_requires_review",
+      "block_id": "fd6dbfea41d5_b0159",
+      "source": {
+        "page": 5,
+        "bbox": [
+          80,
+          113,
+          445,
+          250
+        ],
+        "coordinate_system": "pdf_points_top_left"
+      }
+    },
+    {
+      "kind": "equation_candidate_requires_review",
+      "block_id": "fd6dbfea41d5_b0176",
+      "source": {
+        "page": 5,
+        "bbox": [
+          256.97,
+          500.455,
+          264.359,
+          508.495
+        ],
+        "coordinate_system": "pdf_points_top_left"
+      }
+    },
+    {
+      "kind": "equation_candidate_requires_review",
+      "block_id": "fd6dbfea41d5_b0177",
+      "source": {
+        "page": 5,
+        "bbox": [
+          223.61,
+          514.441,
+          292.528,
+          525.934
+        ],
+        "coordinate_system": "pdf_points_top_left"
+      }
+    },
+    {
+      "kind": "equation_candidate_requires_review",
+      "block_id": "fd6dbfea41d5_b0178",
+      "source": {
+        "page": 5,
+        "bbox": [
+          244.25,
+          531.265,
+          277.278,
+          539.305
+        ],
+        "coordinate_system": "pdf_points_top_left"
+      }
+    },
+    {
+      "kind": "equation_candidate_requires_review",
+      "block_id": "fd6dbfea41d5_b0179",
+      "source": {
+        "page": 5,
+        "bbox": [
+          419.5,
+          539.764,
+          431.125,
+          550.804
+        ],
+        "coordinate_system": "pdf_points_top_left"
+      }
+    },
+    {
+      "kind": "equation_candidate_requires_review",
+      "block_id": "fd6dbfea41d5_b0182",
+      "source": {
+        "page": 5,
+        "bbox": [
+          256.61,
+          589.405,
+          263.999,
+          597.445
+        ],
+        "coordinate_system": "pdf_points_top_left"
+      }
+    },
+    {
+      "kind": "equation_candidate_requires_review",
+      "block_id": "fd6dbfea41d5_b0183",
+      "source": {
+        "page": 5,
+        "bbox": [
+          222.05,
+          603.391,
+          294.07,
+          614.884
+        ],
+        "coordinate_system": "pdf_points_top_left"
+      }
+    },
+    {
+      "kind": "equation_candidate_requires_review",
+      "block_id": "fd6dbfea41d5_b0184",
+      "source": {
+        "page": 5,
+        "bbox": [
+          241.97,
+          620.215,
+          278.721,
+          628.255
+        ],
+        "coordinate_system": "pdf_points_top_left"
+      }
+    },
+    {
+      "kind": "equation_candidate_requires_review",
+      "block_id": "fd6dbfea41d5_b0185",
+      "source": {
+        "page": 5,
+        "bbox": [
+          419.5,
+          628.68,
+          431.125,
+          639.72
+        ],
+        "coordinate_system": "pdf_points_top_left"
+      }
+    },
+    {
+      "kind": "equation_candidate_requires_review",
+      "block_id": "fd6dbfea41d5_b0193",
+      "source": {
+        "page": 6,
+        "bbox": [
+          203.45,
+          149.231,
+          431.125,
+          161.084
+        ],
+        "coordinate_system": "pdf_points_top_left"
+      }
+    },
+    {
+      "kind": "equation_candidate_requires_review",
+      "block_id": "fd6dbfea41d5_b0196",
+      "source": {
+        "page": 6,
+        "bbox": [
+          230.935,
+          197.684,
+          240.057,
+          207.365
+        ],
+        "coordinate_system": "pdf_points_top_left"
+      }
+    },
+    {
+      "kind": "equation_candidate_requires_review",
+      "block_id": "fd6dbfea41d5_b0197",
+      "source": {
+        "page": 6,
+        "bbox": [
+          247.37,
+          199.895,
+          252.934,
+          209.204
+        ],
+        "coordinate_system": "pdf_points_top_left"
+      }
+    },
+    {
+      "kind": "equation_candidate_requires_review",
+      "block_id": "fd6dbfea41d5_b0198",
+      "source": {
+        "page": 6,
+        "bbox": [
+          237.29,
+          203.084,
+          246.09,
+          209.564
+        ],
+        "coordinate_system": "pdf_points_top_left"
+      }
+    },
+    {
+      "kind": "equation_candidate_requires_review",
+      "block_id": "fd6dbfea41d5_b0199",
+      "source": {
+        "page": 6,
+        "bbox": [
+          203.45,
+          204.164,
+          229.791,
+          215.204
+        ],
+        "coordinate_system": "pdf_points_top_left"
+      }
+    },
+    {
+      "kind": "equation_candidate_requires_review",
+      "block_id": "fd6dbfea41d5_b0200",
+      "source": {
+        "page": 6,
+        "bbox": [
+          419.5,
+          204.164,
+          431.125,
+          215.204
+        ],
+        "coordinate_system": "pdf_points_top_left"
+      }
+    },
+    {
+      "kind": "equation_candidate_requires_review",
+      "block_id": "fd6dbfea41d5_b0201",
+      "source": {
+        "page": 6,
+        "bbox": [
+          240.65,
+          211.895,
+          244.083,
+          219.935
+        ],
+        "coordinate_system": "pdf_points_top_left"
+      }
+    },
+    {
+      "kind": "equation_candidate_requires_review",
+      "block_id": "fd6dbfea41d5_b0205",
+      "source": {
+        "page": 6,
+        "bbox": [
+          230.935,
+          269.929,
+          362.744,
+          280.445
+        ],
+        "coordinate_system": "pdf_points_top_left"
+      }
+    },
+    {
+      "kind": "equation_candidate_requires_review",
+      "block_id": "fd6dbfea41d5_b0206",
+      "source": {
+        "page": 6,
+        "bbox": [
+          203.45,
+          275.594,
+          431.125,
+          288.554
+        ],
+        "coordinate_system": "pdf_points_top_left"
+      }
+    },
+    {
+      "kind": "equation_candidate_requires_review",
+      "block_id": "fd6dbfea41d5_b0207",
+      "source": {
+        "page": 6,
+        "bbox": [
+          295.39,
+          285.245,
+          298.823,
+          293.285
+        ],
+        "coordinate_system": "pdf_points_top_left"
+      }
+    },
+    {
+      "kind": "image_requires_review",
+      "block_id": "fd6dbfea41d5_b0218",
+      "source": {
+        "page": 6,
+        "bbox": [
+          146.98,
+          439.75,
+          368.23,
+          624.35
+        ],
+        "coordinate_system": "pdf_points_top_left"
+      }
+    },
+    {
+      "kind": "caption_requires_review",
+      "block_id": "fd6dbfea41d5_b0219",
+      "source": {
+        "page": 6,
+        "bbox": [
+          187.49,
+          625.8,
+          328.611,
+          636.84
+        ],
+        "coordinate_system": "pdf_points_top_left"
+      }
+    },
+    {
+      "kind": "caption_requires_review",
+      "block_id": "fd6dbfea41d5_b0241",
+      "source": {
+        "page": 7,
+        "bbox": [
+          85.104,
+          358.514,
+          430.755,
+          369.554
+        ],
+        "coordinate_system": "pdf_points_top_left"
+      }
+    },
+    {
+      "kind": "caption_requires_review",
+      "block_id": "fd6dbfea41d5_b0252",
+      "source": {
+        "page": 7,
+        "bbox": [
+          198.05,
+          519.574,
+          318.01,
+          530.614
+        ],
+        "coordinate_system": "pdf_points_top_left"
+      }
+    },
+    {
+      "kind": "table_requires_review",
+      "block_id": "fd6dbfea41d5_b0253",
+      "source": {
+        "page": 7,
+        "bbox": [
+          80,
+          534,
+          445,
+          639
+        ],
+        "coordinate_system": "pdf_points_top_left"
+      }
+    },
+    {
+      "kind": "table_requires_review",
+      "block_id": "fd6dbfea41d5_b0258",
+      "source": {
+        "page": 8,
+        "bbox": [
+          80,
+          98,
+          445,
+          269
+        ],
+        "coordinate_system": "pdf_points_top_left"
+      }
+    },
+    {
+      "kind": "caption_requires_review",
+      "block_id": "fd6dbfea41d5_b0259",
+      "source": {
+        "page": 8,
+        "bbox": [
+          121.1,
+          281.954,
+          395.159,
+          292.994
+        ],
+        "coordinate_system": "pdf_points_top_left"
+      }
+    },
+    {
+      "kind": "table_requires_review",
+      "block_id": "fd6dbfea41d5_b0260",
+      "source": {
+        "page": 8,
+        "bbox": [
+          80,
+          296,
+          445,
+          434
+        ],
+        "coordinate_system": "pdf_points_top_left"
+      }
+    },
+    {
+      "kind": "image_requires_review",
+      "block_id": "fd6dbfea41d5_b0281",
+      "source": {
+        "page": 9,
+        "bbox": [
+          164.98,
+          146.77,
+          350.6,
+          282.62
+        ],
+        "coordinate_system": "pdf_points_top_left"
+      }
+    },
+    {
+      "kind": "caption_requires_review",
+      "block_id": "fd6dbfea41d5_b0282",
+      "source": {
+        "page": 9,
+        "bbox": [
+          137.66,
+          284.114,
+          378.56,
+          295.154
+        ],
+        "coordinate_system": "pdf_points_top_left"
+      }
+    },
+    {
+      "kind": "unresolved_character",
+      "block_id": "fd6dbfea41d5_b0290"
+    },
+    {
+      "kind": "image_requires_review",
+      "block_id": "fd6dbfea41d5_b0298",
+      "source": {
+        "page": 9,
+        "bbox": [
+          88.475,
+          531.85,
+          427.085,
+          623.25
+        ],
+        "coordinate_system": "pdf_points_top_left"
+      }
+    },
+    {
+      "kind": "caption_requires_review",
+      "block_id": "fd6dbfea41d5_b0299",
+      "source": {
+        "page": 9,
+        "bbox": [
+          118.7,
+          626.64,
+          397.288,
+          637.68
+        ],
+        "coordinate_system": "pdf_points_top_left"
+      }
+    },
+    {
+      "kind": "image_requires_review",
+      "block_id": "fd6dbfea41d5_b0304",
+      "source": {
+        "page": 10,
+        "bbox": [
+          155.48,
+          97.27,
+          360.22,
+          263.02
+        ],
+        "coordinate_system": "pdf_points_top_left"
+      }
+    },
+    {
+      "kind": "caption_requires_review",
+      "block_id": "fd6dbfea41d5_b0305",
+      "source": {
+        "page": 10,
+        "bbox": [
+          179.21,
+          266.474,
+          336.847,
+          277.514
+        ],
+        "coordinate_system": "pdf_points_top_left"
+      }
+    },
+    {
+      "kind": "image_requires_review",
+      "block_id": "fd6dbfea41d5_b0323",
+      "source": {
+        "page": 10,
+        "bbox": [
+          86.2,
+          537.37,
+          429.75,
+          625.27
+        ],
+        "coordinate_system": "pdf_points_top_left"
+      }
+    },
+    {
+      "kind": "caption_requires_review",
+      "block_id": "fd6dbfea41d5_b0324",
+      "source": {
+        "page": 10,
+        "bbox": [
+          196.61,
+          629.16,
+          319.549,
+          640.2
+        ],
+        "coordinate_system": "pdf_points_top_left"
+      }
+    },
+    {
+      "kind": "caption_requires_review",
+      "block_id": "fd6dbfea41d5_b0332",
+      "source": {
+        "page": 11,
+        "bbox": [
+          194.33,
+          148.244,
+          321.72,
+          159.284
+        ],
+        "coordinate_system": "pdf_points_top_left"
+      }
+    },
+    {
+      "kind": "table_requires_review",
+      "block_id": "fd6dbfea41d5_b0333",
+      "source": {
+        "page": 11,
+        "bbox": [
+          125,
+          163,
+          360,
+          300
+        ],
+        "coordinate_system": "pdf_points_top_left"
+      }
+    },
+    {
+      "kind": "image_requires_review",
+      "block_id": "fd6dbfea41d5_b0343",
+      "source": {
+        "page": 11,
+        "bbox": [
+          147.73,
+          447.5,
+          367.88,
+          625.04
+        ],
+        "coordinate_system": "pdf_points_top_left"
+      }
+    },
+    {
+      "kind": "caption_requires_review",
+      "block_id": "fd6dbfea41d5_b0344",
+      "source": {
+        "page": 11,
+        "bbox": [
+          179.33,
+          628.32,
+          336.713,
+          639.36
+        ],
+        "coordinate_system": "pdf_points_top_left"
+      }
+    },
+    {
+      "kind": "image_requires_review",
+      "block_id": "fd6dbfea41d5_b0352",
+      "source": {
+        "page": 12,
+        "bbox": [
+          175.93,
+          146.77,
+          340.03,
+          495.52
+        ],
+        "coordinate_system": "pdf_points_top_left"
+      }
+    },
+    {
+      "kind": "caption_requires_review",
+      "block_id": "fd6dbfea41d5_b0353",
+      "source": {
+        "page": 12,
+        "bbox": [
+          87.744,
+          496.894,
+          428.221,
+          507.934
+        ],
+        "coordinate_system": "pdf_points_top_left"
+      }
+    }
+  ],
+  "notes": [
+    "Reading order is top-to-bottom heuristic; not validated for multiple columns.",
+    "Page fragments remain separate; missing table rows are not reconstructed.",
+    "Table column names and continuation come from document-specific profile.",
+    "Image crops can include overlays; caption associations are candidates."
+  ]
+}

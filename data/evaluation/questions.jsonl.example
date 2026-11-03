@@ -1,0 +1,2 @@
+{"id":"q001","question":"What was the average SUS score reported in the study?","relevant_chunk_ids":["fd6dbfea41d5_chunk_0010"],"reference_answer":"Replace this with the answer supported by the source document.","answer":""}
+{"id":"q002","question":"Replace with your question.","relevant_chunk_ids":["replace_with_relevant_chunk_id"],"reference_answer":"Replace with the reference answer.","answer":"Paste the answer produced by your RAG application here, or leave empty if Gemini will generate it."}

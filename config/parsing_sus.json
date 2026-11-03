@@ -1,0 +1,159 @@
+{
+  "profile": "sus_pdf_regions_v1",
+  "source_sha256": "fd6dbfea41d5b21490c686bbfa5805448943c658e2d65bd0b315c75ec5fc885d",
+  "remove_line_patterns": [
+    "Journal of Information Systems and Informatics",
+    "Vol\\. 6, No\\. 2, June 2024(?: e-ISSN: 2656-4882 p-ISSN: 2656-5935)?",
+    "p-ISSN: 2656-5935\\s+http://journal-isi\\.org/index\\.php/isi\\s+e-ISSN: 2656-4882",
+    "Ozzi Suria \\| (?:99[3-9]|100[0-7])",
+    "(?:99[4-9]|100[0-6]) \\| A Statistical Analysis of System Usability Scale \\(SUS\\) Evaluations in Online \\u2026\\.\\."
+  ],
+  "tables": [
+    {
+      "page": 5,
+      "bbox": [
+        80,
+        113,
+        445,
+        250
+      ],
+      "label": "Table 1",
+      "table_key": "t1",
+      "columns": [
+        "No",
+        "Questions"
+      ],
+      "column_edges": [
+        110
+      ],
+      "merge_continuations": true,
+      "data_top": 125
+    },
+    {
+      "page": 7,
+      "bbox": [
+        80,
+        534,
+        445,
+        639
+      ],
+      "label": "Table 2",
+      "table_key": "t2",
+      "columns": [
+        "R",
+        "Q1",
+        "Q2",
+        "Q3",
+        "Q4",
+        "Q5",
+        "Q6",
+        "Q7",
+        "Q8",
+        "Q9",
+        "Q10",
+        "SUS Score"
+      ],
+      "column_edges": [
+        115,
+        150,
+        178,
+        205,
+        233,
+        261,
+        289,
+        317,
+        345,
+        373,
+        400
+      ],
+      "data_top": 558
+    },
+    {
+      "page": 8,
+      "bbox": [
+        80,
+        98,
+        445,
+        269
+      ],
+      "label": "Table 2",
+      "table_key": "t2_cont",
+      "continuation_key": "t2",
+      "columns": [
+        "R",
+        "Q1",
+        "Q2",
+        "Q3",
+        "Q4",
+        "Q5",
+        "Q6",
+        "Q7",
+        "Q8",
+        "Q9",
+        "Q10",
+        "SUS Score"
+      ],
+      "column_edges": [
+        115,
+        150,
+        178,
+        205,
+        233,
+        261,
+        289,
+        317,
+        345,
+        373,
+        400
+      ],
+      "data_top": 98
+    },
+    {
+      "page": 8,
+      "bbox": [
+        80,
+        296,
+        445,
+        434
+      ],
+      "label": "Table 3",
+      "table_key": "t3",
+      "columns": [
+        "SUS Score Range",
+        "Grade",
+        "Percentile Range"
+      ],
+      "column_edges": [
+        190,
+        280
+      ],
+      "data_top": 308
+    },
+    {
+      "page": 11,
+      "bbox": [
+        125,
+        163,
+        360,
+        300
+      ],
+      "label": "Table 4",
+      "table_key": "t4",
+      "columns": [
+        "No",
+        "Sample Mean"
+      ],
+      "column_edges": [
+        230
+      ],
+      "data_top": 174
+    }
+  ],
+  "remove_positioned_lines": [
+    {
+      "page": 1,
+      "min_top": 640,
+      "text": "992"
+    }
+  ]
+}

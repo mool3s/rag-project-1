@@ -1,0 +1,14 @@
+{
+  "profile": "sus_journal_v1",
+  "exclude_sections": [],
+  "remove_line_patterns": [
+    "Journal of Information Systems and Informatics",
+    "Vol\\. 6, No\\. 2, June 2024(?: e-ISSN: 2656-4882 p-ISSN: 2656-5935)?",
+    "p-ISSN: 2656-5935\\s+http://journal-isi\\.org/index\\.php/isi\\s+e-ISSN: 2656-4882",
+    "Ozzi Suria \\| (?:99[3-9]|100[0-7])",
+    "(?:99[4-9]|100[0-6]) \\| A Statistical Analysis of System Usability Scale \\(SUS\\) Evaluations in Online …\\.\\."
+  ],
+  "split_headings": {
+    "3.2.1.": "Descriptive Analysis"
+  }
+}
